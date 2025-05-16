@@ -1,4 +1,4 @@
-# ⏰ ALARM PUZZLE
+# ⏰ ALARM PUZZLE using SFML
 
 The **Alarm Puzzle** is an interactive alarm application that enhances the traditional wake-up experience. Instead of simply dismissing a ringing alarm, users must **solve a jigsaw puzzle** to deactivate it — ensuring they are mentally awake and alert.
 
